@@ -1,0 +1,37 @@
+{ 
+    "_id" : ObjectId("5a18f86d9b5c722a941e3a6a"), 
+    "pageInfo" : {
+        "total" : 2.0, 
+        "currentPage" : 1.0
+    }, 
+    "author" : {
+        "id" : 28.0, 
+        "backGround" : "https://photo.enclavebooks.cn/enclave/photo/2017-11-16/17:21:40.jpg", 
+        "intro" : "1971年出生于湖北，当代艺术家，现工作和生活在北京。", 
+        "name" : "陈晓云"
+    }, 
+    "article" : [
+        {
+            "cateName" : "小说", 
+            "artId" : 2421.0, 
+            "artTitle" : "反胶之爱 | 每条蛇都是雌雄同体", 
+            "artEditor" : "陈晓云", 
+            "artThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-11-16/18:07:43.jpg", 
+            "artTime" : 1510807988.0, 
+            "artType" : "1", 
+            "artView" : 3102.0, 
+            "commentCount" : 1.0
+        }, 
+        {
+            "cateName" : "影像", 
+            "artId" : 33.0, 
+            "artTitle" : "我们的负能量：最臭的部分 | 陈晓云影像", 
+            "artEditor" : "陈晓云", 
+            "artThumb" : "https://photo.enclavebooks.cn/enclave/photo/2016-12-21/14:44:06.jpg", 
+            "artTime" : 1482319075.0, 
+            "artType" : "2", 
+            "artView" : 10687.0, 
+            "commentCount" : 24.0
+        }
+    ]
+}

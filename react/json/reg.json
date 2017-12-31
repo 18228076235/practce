@@ -1,0 +1,29 @@
+{ 
+    "_id" : ObjectId("5a1a801d2c91cf1cd8747f1a"), 
+    "number" : "18228076235", 
+    "password" : "111111"
+}
+{ 
+    "_id" : ObjectId("5a1a80f2bc67210ff8ce601b"), 
+    "number" : "13111111111", 
+    "password" : "111111", 
+    "name" : "地龙*光影", 
+    "word" : "", 
+    "sex" : "女"
+}
+{ 
+    "_id" : ObjectId("5a1a8283a2042d0be475054f"), 
+    "number" : "13333333331", 
+    "password" : "111111", 
+    "name" : "哈哈哈", 
+    "word" : "", 
+    "sex" : "女"
+}
+{ 
+    "_id" : ObjectId("5a200281e4ae0f5207d14ad0"), 
+    "number" : "13111111113", 
+    "password" : "111111", 
+    "name" : "哈哈", 
+    "word" : "呵呵呵呵", 
+    "sex" : "男"
+}

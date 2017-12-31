@@ -1,0 +1,11 @@
+http://app.enclavebooks.cn/v1_8/index?page=1   //首页前九条数据
+
+http://app.enclavebooks.cn/v1_8/article?artId=2162&userId=64425   //首页详情 可根据artID查找
+
+http://app.enclavebooks.cn/v1_8/discovery   //探索
+
+http://app.enclavebooks.cn/v1_8/getCategoryList?cateId=1&page=2  //音乐分类
+  
+
+cateId 分类
+  

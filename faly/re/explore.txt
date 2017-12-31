@@ -1,0 +1,163 @@
+{ 
+    "_id" : ObjectId("5a18e71ccf2a99c0c4aa7491"), 
+    "banner" : [
+        {
+            "id" : 137.0, 
+            "type" : "2", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-11-24/14:29:49.jpg", 
+            "title" : null, 
+            "extend" : "2166"
+        }, 
+        {
+            "id" : 136.0, 
+            "type" : "2", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-11-24/14:29:28.jpg", 
+            "title" : null, 
+            "extend" : "2421"
+        }, 
+        {
+            "id" : 135.0, 
+            "type" : "2", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-11-22/15:06:23.jpg", 
+            "title" : null, 
+            "extend" : "1440"
+        }
+    ], 
+    "column" : [
+        {
+            "id" : 27.0, 
+            "name" : "妖异传说", 
+            "description" : "万圣节，有什么妖怪和灵异故事值得分享？", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-10-30/14:44:24.jpg"
+        }, 
+        {
+            "id" : 26.0, 
+            "name" : "疾病的隐喻", 
+            "description" : "很少有一种生存体验像“病中”一样，使人们强烈地感受到肉身的存在，及其无常和速朽的本质……", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-10-24/14:33:56.jpg"
+        }, 
+        {
+            "id" : 24.0, 
+            "name" : "经典导读", 
+            "description" : "诗人、学者导读经典作品", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-09-26/19:43:44.jpg"
+        }, 
+        {
+            "id" : 23.0, 
+            "name" : "情爱分析系列", 
+            "description" : "跨越上古、中古与近现代综合艺术，抵达人类心灵史中暧昧而混乱的精神图景", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-09-06/16:31:31.jpg"
+        }, 
+        {
+            "id" : 22.0, 
+            "name" : "图书馆之梦", 
+            "description" : "博尔赫斯曾把图书馆比做天堂，或许它更像是人间，包含着一切可能性之梦……", 
+            "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-08-01/14:07:32.jpg"
+        }
+    ], 
+    "hotArticle" : [
+        {
+            "artId" : 886.0, 
+            "artTitle" : "里尔克：在敌意中去爱，在疏离中去爱", 
+            "artDigest" : "", 
+            "artEditor" : "胡桑", 
+            "artThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-09-14/16:13:58.jpg"
+        }, 
+        {
+            "artId" : 871.0, 
+            "artTitle" : "给故乡的诀别信 | 白水田野录音新作《一首情诗》", 
+            "artDigest" : "", 
+            "artEditor" : "白水", 
+            "artThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-08-18/18:32:07.jpg"
+        }, 
+        {
+            "artId" : 856.0, 
+            "artTitle" : "记忆在漫溢的水桶中颤抖", 
+            "artDigest" : "", 
+            "artEditor" : "蒙塔莱", 
+            "artThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-08-16/16:30:22.jpg"
+        }
+    ], 
+    "author" : [
+        {
+            "id" : 28.0, 
+            "name" : "陈晓云", 
+            "avatar" : "https://photo.enclavebooks.cn/enclave/photo/2016-12-21/14:33:41.jpg", 
+            "intro" : "1971年出生于湖北，当代艺术家，现工作和生活在北京。"
+        }, 
+        {
+            "id" : 158.0, 
+            "name" : "?臧棣", 
+            "avatar" : "https://photo.enclavebooks.cn/enclave/photo/2017-03-30/16:06:51.jpg", 
+            "intro" : "1964年4月生在北京。1983年9月考入北京大学中文系。1997年7月获北京大学文学博士学位。现任教北京大学中文系。北京大学中国新诗所研究员。出版诗集有《燕园纪事》（1998）、《风吹草动》（2000）、《新鲜的荆棘》（2002）、《宇宙是扁的》（2008）、《空城计》（2009）、《未名湖》（2010）、《慧根丛书》（2011）、《小挽歌丛书》（2012）等。曾获《南方文坛》杂志2005年度批评家奖、第3届珠江国际诗歌节·珠江诗歌大奖（2007）、首届长江文艺·完美（中国）文学奖（2008）、第7届华语文学传媒大奖·2008年度诗人奖（2009）、首届苏曼殊诗歌奖（2010）、首届北京文艺网国际华文诗歌奖（2013）。曾被评为中国当代十大杰出青年诗人（2005）、1979-2005中国十大先锋诗人（2006）、中国十大新锐诗歌批评家（2007）、当代十大新锐诗人（2007）、汉语诗歌双年十佳诗人（2008）。"
+        }, 
+        {
+            "id" : 262.0, 
+            "name" : "致水", 
+            "avatar" : "https://photo.enclavebooks.cn/enclave/photo/2017-07-05/17:13:14.jpg", 
+            "intro" : "致水，1995年生于四川内江，毕业于重庆交通大学2013级桥梁工程专业。曾获第七届光华诗歌奖。"
+        }
+    ], 
+    "category" : [
+        {
+            "cateId" : 1.0, 
+            "cateName" : "声音", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/01:32:32.jpg", 
+            "cateDescription" : "文学有声读物"
+        }, 
+        {
+            "cateId" : 7.0, 
+            "cateName" : "诗歌", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/00:48:25.jpg", 
+            "cateDescription" : "时光有诗为证"
+        }, 
+        {
+            "cateId" : 9.0, 
+            "cateName" : "影像", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-20/23:46:39.jpg", 
+            "cateDescription" : "当代视听艺术作品"
+        }, 
+        {
+            "cateId" : 15.0, 
+            "cateName" : "艺术", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/02:13:44.jpg", 
+            "cateDescription" : "当代艺术家推介"
+        }, 
+        {
+            "cateId" : 13.0, 
+            "cateName" : "随笔", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-20/23:03:57.jpg", 
+            "cateDescription" : "我们的当代生活"
+        }, 
+        {
+            "cateId" : 11.0, 
+            "cateName" : "小说", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/00:06:32.jpg", 
+            "cateDescription" : "想听你的故事"
+        }, 
+        {
+            "cateId" : 14.0, 
+            "cateName" : "音乐", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-20/23:10:50.jpg", 
+            "cateDescription" : "乐曲与歌谣"
+        }, 
+        {
+            "cateId" : 20.0, 
+            "cateName" : "评论", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/01:51:25.jpg", 
+            "cateDescription" : "思想的犀利"
+        }, 
+        {
+            "cateId" : 16.0, 
+            "cateName" : "对话", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-20/23:21:11.jpg", 
+            "cateDescription" : "举起手来，说出你的秘密"
+        }, 
+        {
+            "cateId" : 2.0, 
+            "cateName" : "视觉", 
+            "cateThumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/01:28:11.jpg", 
+            "cateDescription" : "看得见的丰富"
+        }
+    ]
+}

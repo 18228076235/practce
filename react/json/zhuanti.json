@@ -1,0 +1,140 @@
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c266793c"), 
+    "id" : 27.0, 
+    "name" : "妖异传说", 
+    "description" : "万圣节，有什么妖怪和灵异故事值得分享？", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-10-30/14:44:24.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c266793d"), 
+    "id" : 26.0, 
+    "name" : "疾病的隐喻", 
+    "description" : "很少有一种生存体验像“病中”一样，使人们强烈地感受到肉身的存在，及其无常和速朽的本质……", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-10-24/14:33:56.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c266793e"), 
+    "id" : 24.0, 
+    "name" : "经典导读", 
+    "description" : "诗人、学者导读经典作品", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-09-26/19:43:44.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c266793f"), 
+    "id" : 23.0, 
+    "name" : "情爱分析系列", 
+    "description" : "跨越上古、中古与近现代综合艺术，抵达人类心灵史中暧昧而混乱的精神图景", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-09-06/16:31:31.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c2667940"), 
+    "id" : 22.0, 
+    "name" : "图书馆之梦", 
+    "description" : "博尔赫斯曾把图书馆比做天堂，或许它更像是人间，包含着一切可能性之梦……", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-08-01/14:07:32.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c2667941"), 
+    "id" : 21.0, 
+    "name" : "诗人读诗", 
+    "description" : "演绎诗的韵律与节奏", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-06-22/14:18:52.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c2667942"), 
+    "id" : 20.0, 
+    "name" : "绘梦师", 
+    "description" : "给我一个梦境，还你一张插画", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-06-14/17:54:56.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c2667943"), 
+    "id" : 19.0, 
+    "name" : "高考，高考", 
+    "description" : "飞地特约，高考同题作文系列", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-06-10/21:37:42.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c2667944"), 
+    "id" : 18.0, 
+    "name" : "文艺片观影指南", 
+    "description" : "用以界定那些非动作性，较偏重于感情性、现实性、甚至思想性的电影", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-06-05/17:23:20.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0accfe0a424c2667945"), 
+    "id" : 17.0, 
+    "name" : "艺术与诗", 
+    "description" : "他们既是诗人，也是艺术家", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-05-31/16:06:58.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c2667946"), 
+    "id" : 16.0, 
+    "name" : "雨水时光", 
+    "description" : "下雨日子里的诗", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-05-26/13:54:56.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c2667947"), 
+    "id" : 15.0, 
+    "name" : "民谣与诗", 
+    "description" : "诗歌改编的民谣作品，适合安静的时候听", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-05-23/15:33:30.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c2667948"), 
+    "id" : 14.0, 
+    "name" : "反恐同特辑", 
+    "description" : "5月17日是“国际不再恐同日”，本周我们将持续发布与“同性恋”有关的诗歌、访谈、调查和科普", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-05-16/23:03:07.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c2667949"), 
+    "id" : 12.0, 
+    "name" : "留学奇遇记", 
+    "description" : "留学生活的那些甜酸苦辣", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-05-10/15:16:10.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c266794a"), 
+    "id" : 11.0, 
+    "name" : "情色与志怪", 
+    "description" : "那张床不会泄露你们的秘密，你们尽管去成其美事吧！", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-05-03/14:55:37.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c266794b"), 
+    "id" : 10.0, 
+    "name" : "写给爱情的诗", 
+    "description" : "我们曾经背靠着背，韶华流水", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-21/15:30:04.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c266794c"), 
+    "id" : 9.0, 
+    "name" : "青年生存调查", 
+    "description" : "抽完这根烟，我告诉你一个秘密", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-16/23:29:39.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c266794d"), 
+    "id" : 8.0, 
+    "name" : "生活岛屿", 
+    "description" : "每个人的生活，都是奇妙的故事", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-16/22:38:23.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c266794e"), 
+    "id" : 7.0, 
+    "name" : "艺术家影像", 
+    "description" : "当代艺术家影像作品", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-07-13/22:18:54.jpg"
+}
+{ 
+    "_id" : ObjectId("5a18d0e7cfe0a424c266794f"), 
+    "id" : 5.0, 
+    "name" : "未来世界与人工智能", 
+    "description" : "科技、爱情、人类伦理，未来世界精细地浮出了冰山一角", 
+    "thumb" : "https://photo.enclavebooks.cn/enclave/photo/2017-04-14/16:56:02.jpg"
+}
